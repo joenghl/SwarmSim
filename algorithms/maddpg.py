@@ -1,7 +1,3 @@
-"""
-Author: Yang Hanlin
-Date:   2021/10/24
-"""
 import torch
 from torch._C import ErrorReport
 import torch.nn.functional as F
