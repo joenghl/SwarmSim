@@ -1,6 +1,4 @@
 """
-Author: Yang Hanlin
-Date:   2021/10/22
 Description: instantiate object
 """
 class EntityState:
