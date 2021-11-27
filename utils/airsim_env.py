@@ -1,7 +1,4 @@
 """
-Author:         Yang Hanlin
-Date:           2021/10/20
-Description:    AirSim Environment for Deep Reinforcement Learning.
 Pos(AirSim):
     LB = (30, -40)
     LT = (70, -40)
