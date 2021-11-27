@@ -10,5 +10,5 @@ python main.py
 ## Test
 ```<shell>
 cd SwarmSim
-python estimate.py
+python evalaute.py
 ```
