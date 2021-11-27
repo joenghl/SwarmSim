@@ -1,7 +1,3 @@
-"""
-Author: Yang Hanlin
-Date:   2021/10/23
-"""
 import torch.nn as nn
 import torch.nn.functional as F
 
